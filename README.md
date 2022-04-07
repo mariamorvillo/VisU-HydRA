@@ -1,4 +1,4 @@
-# VisUQ-HydRA
+# VisU-HydRA
 Compute the estimation of the concentration of a pollutant at an environmentally sensitive target and its uncertainty. Use the output data for your risk analysis in heterogeneus hydrogeological systems.  
 
 This computational tool box links various components relevant for the estimation of the concentration of a pollutant at an environmentally
