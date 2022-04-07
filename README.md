@@ -1,7 +1,7 @@
 # VisU-HydRA
 Compute the estimation of the concentration of a pollutant at an environmentally sensitive target and its uncertainty. Use the output data for your risk analysis in heterogeneus hydrogeological systems.  
 
-The proposed package is aimed at  \underline{Vis}ualizing  \underline{U}ncertainty  for  \underline{Hyd}rological  \underline{R}isk  \underline{A}nalysis and it is called \texttt{VisU-HydRA}.
+The proposed package is aimed at  **Vis**ualizing  **U**ncertainty  for  **Hyd**rological  **R**isk  **A**nalysis and it is called **VisU-HydRA**.
 This computational tool box links various components relevant for the estimation of the concentration of a pollutant at an environmentally
 sensitive target and its uncertainty. The computational framework builds upon existing computational tools such as HYDRO_GEN [[1]](#1),FloPy  [[2]](#2), and a 
 GPU-based random walk particle tracking code [[3]](#3). The goal is to provide a ``user friendly'' platform that generate outputs that are relevant to risk analysis in groundwater systems.
