@@ -15,7 +15,7 @@ GPU-based random walk particle tracking code [[3]](#3). The goal is to provide a
 - UQRA: folder containing the files related to the risk analysis and uncertainty quantification.
 
 # How to run VisU-HydRA
-As explained by the Markdown cells in the Jupyter notebook and in the **What you need** section, to run each code cell you need certain files. Create a folder on your computer in which you need to include the Jupyter Notebook, all the files included in the folders described above and a the Image folder, to visualize the graphycal eplanations included in the Noteboook. 
+As explained by the Markdown cells in the Jupyter Notebook and in the **What you need** section, to run each code cell you need certain files. Create a folder on your computer in which you need to include the Jupyter Notebook, all the files included in the folders described above and a the Image folder, to visualize the graphycal eplanations included in the Jupyter Notebook. 
 
 ## References
 <a id="1">[1]</a> 
