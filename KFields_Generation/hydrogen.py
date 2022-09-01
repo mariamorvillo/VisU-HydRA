@@ -27,9 +27,9 @@ def field_generation(realization, operating_system):
         a_file.close()
         
         if operating_system == 'mac':
-            os.system("hydrogen_mac")
+            os.system("./hydrogen_mac")
         if operating_system == 'linux':
-            os.system("hydrogen_linux")
+            os.system("./hydrogen_linux")
 
         aquifer = []
         record = False
