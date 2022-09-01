@@ -530,12 +530,8 @@ class plotinfo:
             f = open(f'tmp/model-{i}.ftl', 'r')
             for line in f:
                 if line[3] == 'X':
-                    for j in range(0, cell_number, 3):
-                        line = f.readline()
-                        e1, e2, e3 = np.asarray(line.split(), dtype=float)
-                        velocities.append(e1)
-                        velocities.append(e2)
-                        velocities.append(e3)
+                    line = f.readline()
+                    velocities.append(np.asarray(line.split(), dtype=float))
             f.close()
             sflow[i] = np.asarray(velocities).reshape((self.Ly,self.Lx))
         
